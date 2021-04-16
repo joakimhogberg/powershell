@@ -51,7 +51,7 @@ Creates a new page named 'NewPage' and saves as a template to the site.
 Add-PnPPage -Name "Folder/NewPage"
 ```
 
-Creates a new page named 'NewPage' under 'Folder' folder and saves as a template to the site.
+Creates a new page named 'NewPage' under 'Folder' folder.
 
 ### EXAMPLE 5
 ```powershell
